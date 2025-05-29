@@ -33,7 +33,4 @@ Includes a suite of test cases with over 50 examples to validate classification 
 - **Frontend:** HTML + Bootstrap (Flask templates)
 - **Workflow:** Jira-based task tracking
 
----
-
-## 📂 Repository Structure
 
